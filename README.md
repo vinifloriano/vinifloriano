@@ -4,7 +4,7 @@
 
 - 🔭 Eu estou trabalhando em um curso WPF
 - 🌱 Atualmente, estou aprendento tudo sobre JS e TS 🤣
-- 👯 Estou colaborando com outros desenvolvedores para fazer grandes porjetos
+- 👯 Estou colaborando com outros desenvolvedores para fazer grandes projetos
 - 🥅 Metas de 2020: Contribuir para projetos open source
 - ⚡ Fato divertido: amo música e UI
 

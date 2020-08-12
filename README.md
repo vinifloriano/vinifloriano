@@ -47,11 +47,6 @@
 - [Calculadora Científica do Windows em C#! Parte 1](https://www.youtube.com/watch?v=pUGtJB9tMNQ)
 <!-- YOUTUBE:END -->
 
----
-
-
-<img align="left" alt="ViniciusFloriano's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ViniciusFloriano&show_icons=true&hide_border=true" />
-
 [youtube]: https://www.youtube.com/channel/UC2eIghPOySuV2y6d3llYG9Q
 [instagram]: https://www.instagram.com/vini.floriano/
 [linkedin]: https://www.linkedin.com/in/vinicius-pereira-floriano-filho-6b0510170/

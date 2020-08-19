@@ -40,11 +40,11 @@
 
 ### 📺 Últimos vídeos no Youtube
 <!-- YOUTUBE:START -->
+- [Idemy](https://www.youtube.com/watch?v=QMeNY11-Kr0)
 - [Fifteen](https://www.youtube.com/watch?v=yKgShFfaMNc)
 - [CATIAO](https://www.youtube.com/watch?v=2as6LbyzFYQ)
 - [Calculadora Científica do Windows em C#! Parte 3](https://www.youtube.com/watch?v=S8W7cRNMJy0)
 - [Calculadora Científica do Windows em C#! Parte 2](https://www.youtube.com/watch?v=k1kIJSXNzyU)
-- [Calculadora Científica do Windows em C#! Parte 1](https://www.youtube.com/watch?v=pUGtJB9tMNQ)
 <!-- YOUTUBE:END -->
 
 [youtube]: https://www.youtube.com/channel/UC2eIghPOySuV2y6d3llYG9Q

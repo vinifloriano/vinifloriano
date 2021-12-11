@@ -2,10 +2,10 @@
 
 ## Sou um estudante apaixonado por novas tecnologias!
 
-- 🔭 Eu estou trabalhando em um curso WPF
+- 🔭 Eu estou trabalhando em um curso C#
 - 🌱 Atualmente, estou aprendento tudo sobre JS e TS 🤣
 - 👯 Estou colaborando com outros desenvolvedores para fazer grandes projetos
-- 🥅 Metas de 2020: Contribuir para projetos open source
+- 🥅 Metas de 2022: Contribuir para projetos open source
 - ⚡ Fato divertido: amo música e UI
 
 ### Conecte-se a mim:
